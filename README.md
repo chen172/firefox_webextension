@@ -4,11 +4,13 @@ block bing.com AI
 # Usage
 
 ## Development
+every time you restart firefox, you need reinstall it
+
 1. In firefox address bar, go to ```about:debugging#/runtime/this-firefox```, click the Load Temporary Add-on button, then select any file in your extension's directory.
 2. In firefox address bar, go to ```about:addons```, click on the extension, and select the Allow radio button for Run in Private Windows.
 * Note: for more info, see [installing](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension#installing)
 
-## Build to XPI from source
+## Build XPI file from source
 for permanent use it, you need to package and sign the extension as XPI file:
 
 1. install web-ext by [npm](https://github.com/mozilla/web-ext#global-command) or [source](https://github.com/mozilla/web-ext#installation-from-source)
