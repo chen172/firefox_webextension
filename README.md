@@ -17,6 +17,10 @@ for permanent use it, you need to package and sign the extension as XPI file:
 4. web-ext sign --api-key=$AMO_JWT_ISSUER --api-secret=$AMO_JWT_SECRET
 5. after run the above command, you'll receive an email contains the Add-on link, click it to download the Add-on.
 
+## Install from Releases
+1. Download zip file from https://github.com/chen172/firefox_webextension/releases
+2. unzip it, get .xpi file, and install it to firefox
+
 # Version
 Mozilla Firefox (106.0.1)
 
