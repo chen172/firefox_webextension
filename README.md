@@ -21,6 +21,6 @@ for permanent use it, you need to package and sign the extension as XPI file:
 Mozilla Firefox (106.0.1)
 
 # ref
-https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension
-https://extensionworkshop.com/documentation/publish/signing-and-distribution-overview/
-https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/
+1. https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension
+2. https://extensionworkshop.com/documentation/publish/signing-and-distribution-overview/
+3. https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/
