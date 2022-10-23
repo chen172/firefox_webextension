@@ -1,7 +1,8 @@
 # Description
 block bing.com AI
 
-# Usage
+# Install
+You can choose one of the three methods to install it
 
 ## Development
 every time you restart firefox, you need reinstall it
